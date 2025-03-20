@@ -1,0 +1,76 @@
+h1 {text-align: center;}
+
+h2 {text-align: center;}
+
+a {
+    text-decoration: none;
+    color: rgb(224, 31, 150)}
+
+a:hover {
+        color: #fffbfb}
+
+.laatikko {
+    background-color: #f9d8ee;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 0.5rem 0.5rem 0rem 0rem;}
+
+.logo {vertical-align: middle;}
+.logo {width: 80%;
+    max-width: 300px;
+    display: block;
+    margin:auto;}
+
+.tuotekuva {width: 50%;
+            max-width: 500px;
+            display: inline-block;
+            margin-right: 20px;}
+
+.text { display: inline-block;
+        font-size: 18px;
+        vertical-align: top;
+        text-align: center;}
+
+main {
+    p {color: black;}
+    p {font-family:Verdana, Geneva, Tahoma, sans-serif;}
+    p {font-size: 16px;}
+
+}
+
+body {
+    background-color: rgb(251, 234, 243);
+
+}
+
+body {
+    h1 {color: rgb(224, 31, 150); }
+    h2 {color: rgb(224, 31, 150);}
+
+}
+
+body {
+    h1 {font-family: 'Times New Roman', Times, serif;}
+    h1 {font-style:italic;}
+    h1 {font-size: 50px;}
+}
+
+body {
+    h2 {font-family: 'Times New Roman', Times, serif;}
+    h2 {font-style:normal;}
+    h2 {font-size: 20px;}
+}
+
+.logoo {width: 60%;
+        margin-right: 20px;
+        max-width: 600px;}
+
+.verkko {vertical-align: middle;
+        width: 60%;
+        margin-right: 300px;
+        margin-left: 300px;}
+
+
